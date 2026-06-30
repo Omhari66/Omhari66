@@ -29,11 +29,12 @@
 ## 🚀 Featured Projects
 
 ⭐ Featured Repositories:
-- Notes app with CRUD + Auth (MERN)
-- 🔗 Repo: https://github.com/Omhari66/NoteApp
-- Todo List Task tracker with clean UI
-- 🔗 Repo: https://github.com/Omhari66/todo-app
-- ML Projects (Coming Soon)
+- ML Projects
+- Production-Ready AI Surveillance Platform for Real-Time Violence Detection
+- 🔗 Repo: https://github.com/Omhari66/smart-omnisentinel-final/tree/main/smart-omnisentinel
+
+- An adaptive RAG-powered AI tutor that teaches, revises, and evaluates students using their own study materials.
+- 🔗 Repo: https://github.com/Omhari66/adaptive-ai-tutor
 
 ---
 
