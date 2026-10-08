@@ -5,20 +5,16 @@
 
 
 <br/>
-<br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://om-hari.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/om66)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff1a1a?style=flat-square&logo=vercel&logoColor=white)](https://om-hari.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/omhari66)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Om_hari_Shukla/)
-[![Blog](https://img.shields.io/badge/-Blog-00C9A7?style=flat-square&logo=blogger&logoColor=white)](https://learnerslogbyom.blogspot.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omharishukla66@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/omhari66)
+[![Blog](https://img.shields.io/badge/-Blog-b30000?style=flat-square&logo=blogger&logoColor=white)](https://learnerslogbyom.blogspot.com/)
 <br/>
 <img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/hell-room.gif" width="100%" alt="pixel art workspace"/>
 </div>
 
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🎯 Right now
 
@@ -31,7 +27,7 @@ sharpening:    DSA in C++ (300+ problem target)  ·  MLOps
 status:        🟢 open to internships / off-campus opportunities
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Featured builds
 
@@ -83,7 +79,7 @@ Built end to end with `Next.js 14` `TypeScript` `PostgreSQL` `Prisma`, deployed 
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 📈 Skill build-out
 
@@ -96,7 +92,7 @@ Built end to end with `Next.js 14` `TypeScript` `PostgreSQL` `Prisma`, deployed 
 | DSA in C++ — 300+ problems | █████░░░░░ in progress |
 | MLOps — FastAPI, Docker, CI/CD | ███░░░░░░░ starting |
 
-<br/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Tech Stack
 
@@ -160,7 +156,7 @@ Built end to end with `Next.js 14` `TypeScript` `PostgreSQL` `Prisma`, deployed 
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🎓 Certifications
 
@@ -168,22 +164,34 @@ Built end to end with `Next.js 14` `TypeScript` `PostgreSQL` `Prisma`, deployed 
 - Microsoft Applied Skills: Get Started Developing Agents in Microsoft Foundry (Aug 2026)
 - Oracle Data Platform 2025 Certified Foundations Associate (Nov 2025)
 
-<br/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omhari66&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omhari66&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omhari66&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=ff1a1a&icon_color=ff1a1a&text_color=ffffff&border_color=4a0000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omhari66&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff1a1a&text_color=ffffff&border_color=4a0000" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omhari66&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omhari66&background=0d1117&stroke=4a0000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&currStreakLabel=ff1a1a&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
 </div>
+
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/divider.svg" width="100%" alt=""/>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:omharishukla66@gmail.com"><img src="https://img.shields.io/badge/%20%20%20-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/om66"><img src="https://img.shields.io/badge/%20%20%20-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/%20%20%20-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://wa.me/919005923222"><img src="https://img.shields.io/badge/%20%20%20-161b22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/%20%20%20-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
+</p>
 
 <br/>
 
@@ -191,6 +199,6 @@ Built end to end with `Next.js 14` `TypeScript` `PostgreSQL` `Prisma`, deployed 
 
 *Discipline beats motivation. Every. Single. Day.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:7a0000,100:ff1a1a&height=100&section=footer" width="100%"/>
 
 </div>
