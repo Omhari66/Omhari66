@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://om-hari.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/om66)
 [![GitHub](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/omhari66)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/omhari66)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Om_hari_Shukla/)
 [![Blog](https://img.shields.io/badge/-Blog-00C9A7?style=flat-square&logo=blogger&logoColor=white)](https://learnerslogbyom.blogspot.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omharishukla66@gmail.com)
 
