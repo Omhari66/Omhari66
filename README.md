@@ -2,8 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/banner.svg" width="100%" alt="Om Hari Shukla"/>
 
-<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/hell-room.gif" width="100%" alt="pixel art workspace"/>
 
+
+<br/>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://om-hari.vercel.app)
@@ -12,7 +13,8 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Om_hari_Shukla/)
 [![Blog](https://img.shields.io/badge/-Blog-00C9A7?style=flat-square&logo=blogger&logoColor=white)](https://learnerslogbyom.blogspot.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omharishukla66@gmail.com)
-
+<br/>
+<img src="https://raw.githubusercontent.com/omhari66/omhari66/main/assets/hell-room.gif" width="100%" alt="pixel art workspace"/>
 </div>
 
 <br/>
